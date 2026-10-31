@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+results/
+data/
+.gradio/
+.superpowers/
+*.log
+.DS_Store
+
+# Local design notes and device-specific verification stay on this machine.
+docs/superpowers/
+docs/verification.md
+dist/
